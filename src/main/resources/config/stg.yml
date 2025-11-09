@@ -1,0 +1,5 @@
+baseUrl: "https://facebook.com/"
+browser: "firefox"
+credentials:
+  username: ${FB_USERNAME}
+  password: ${FB_PASSWORD}

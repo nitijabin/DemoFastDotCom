@@ -1,0 +1,5 @@
+baseUrl: "https://fast.com/"
+browser: "chrome"
+credentials:
+  username: ${QA_USERNAME}
+  password: ${QA_PASSWORD}
